@@ -1,7 +1,7 @@
 🚀 Live Demo: (https://ai-cv-analyzer-gnjxncbsvfbrcanrwvpivy.streamlit.app/)
 # 📄 Yapay Zeka Destekli CV Analiz ve Kariyer Danışmanı
 
-Bu proje, kullanıcıların yüklediği CV (özgeçmiş) dosyalarını analiz eden ve yapay zeka destekli öneriler sunan bir web uygulamasıdır.
+Bu proje, kullanıcıların yüklediği CV (özgeçmiş) dosyalarını analiz eden ve yapay zeka destekli her mesleğe özel öneriler sunan bir web uygulamasıdır.
 
 ---
 
@@ -42,3 +42,4 @@ ve böylece daha etkili bir özgeçmiş oluşturmalarına yardımcı olmaktır.
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
+Live demo linki, proje tesliminden sonra eklenmiştir.
