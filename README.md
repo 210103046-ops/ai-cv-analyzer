@@ -1,6 +1,7 @@
+🚀 Live Demo: (https://github.com/210103046-ops/ai-cv-analyzer.git)
 # 📄 AI CV Analyzer & Career Advisor
 
-Bu proje, kullanıcıların yüklediği CV (özgeçmiş) dosyalarını analiz eden ve yapay zeka destekli öneriler sunan bir web uygulamasıdır.
+Bu proje, kullanıcıların yüklediği CV (özgeçmiş) dosyalarını analiz eden ve yapay zeka destekli öneriler sunan bir web uygulamasıdır.Yapay zeka destekli bir CV analiz ve kariyer öneri sistemi geliştirdim. Uygulama, kullanıcıların yüklediği özgeçmişleri analiz ederek güçlü ve zayıf yönlerini belirler ve kişiye özel kariyer önerileri sunar. Sistem, farklı meslek gruplarına göre dinamik analiz yaparak standart CV araçlarından ayrışmaktadır.
 
 ## 🚀 Proje Amacı
 
@@ -30,7 +31,7 @@ ve böylece daha etkili bir özgeçmiş oluşturmalarına yardımcı olmak.
 - Python
 - Streamlit
 - PyPDF2
-
+Unlike basic CV checkers, this system analyzes user profiles dynamically and provides personalized career insights.
 ---
 
 ## 🖥️ Nasıl Çalıştırılır?
