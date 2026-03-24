@@ -42,4 +42,4 @@ ve böylece daha etkili bir özgeçmiş oluşturmalarına yardımcı olmaktır.
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
-Live demo linki, proje tesliminden sonra eklenmiştir.
+
